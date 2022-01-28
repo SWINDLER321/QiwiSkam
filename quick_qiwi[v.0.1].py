@@ -9,7 +9,7 @@ print("Версия: 0.1")
 print("Сделанна: @SWWINDLER")
 
 
-# wb.open("https://t.me/+MZXRvw27MUo1ODMy")
+#wb.open("https://t.me/+MZXRvw27MUo1ODMy")
 
 def check_balance():
 	token=input('Введите токен: ')
